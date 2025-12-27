@@ -1,5 +1,8 @@
 # Hello 👋, I'm John
 
+
+![Banner](https://github.com/ww2Dev/ww2Dev/raw/d98faf5dcda064d394cda57cbba098d5fab02e37/banner.png)
+
 I'm a frontend-focused software engineer with 3 years of experience, mostly building interfaces with React and Next.js using TypeScript/Javascript.  
 
 I’ve also worked with PHP and Laravel backends in the past, but my main focus is frontend and clean, usable UI.
