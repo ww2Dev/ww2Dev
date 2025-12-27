@@ -10,6 +10,6 @@ I’ve also worked with PHP and Laravel backends in the past, but my main focus 
 <h3 align="left">My Stack:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,js,react,nextjs,mysql,git,html,css,tailwind" />
+    <img src="https://skillicons.dev/icons?i=typescript,js,react,nextjs,git,html,css,tailwind" />
   </a>
 </p>
