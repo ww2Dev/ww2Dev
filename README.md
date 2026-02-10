@@ -5,7 +5,7 @@
 
 I'm a frontend-focused software engineer with 3 years of experience, mostly building interfaces with React and Next.js using TypeScript/Javascript.  
 
-I’ve also worked with PHP and Laravel backends in the past, but my main focus is clean, smooth, interactive UI.
+I’m also experienced with integrations with PHP/Laravel backends.
 
 <h3 align="left">My Stack:</h3>
 <p align="left">
