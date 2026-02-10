@@ -3,7 +3,7 @@
 
 ![Banner](https://raw.githubusercontent.com/ww2Dev/ww2Dev/main/banner.png)
 
-I'm a frontend-focused software engineer with 3 years of experience, mostly building interfaces with React and Next.js using TypeScript/Javascript.  
+I'm a frontend-focused software engineer with 3+ years of experience, mostly building interfaces with React and Next.js using TypeScript/Javascript.  
 
 I’m also experienced with integrations with PHP/Laravel backends.
 
