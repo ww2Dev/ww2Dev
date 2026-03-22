@@ -1,15 +1,12 @@
-# Hello 👋, I'm John
-
+# Hey, I'm Yonatan 👋
 
 ![Banner](https://raw.githubusercontent.com/ww2Dev/ww2Dev/main/banner.png)
 
-I'm a frontend-focused software engineer with 3+ years of experience, mostly building interfaces with React and Next.js using TypeScript/Javascript.  
+Frontend-focused developer specializing in Next.js. Shipped 5 production systems for the IDF —
+including a 7-figure recruitment platform with 10+ user roles and complex multi-stage workflows.
 
-I’m also experienced with integrations with PHP/Laravel backends.
-
-<h3 align="left">My Stack:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,js,react,nextjs,git,html,css,tailwind" />
+    <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,tailwind,nodejs,mysql,vitest,docker,git,figma" />
   </a>
 </p>
