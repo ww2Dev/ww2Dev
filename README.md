@@ -7,6 +7,6 @@ I care about clean, performant and WCAG compliant code. I code with the goal of 
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,express,postgres,mysql,vite,vitest,docker,git&perline=7" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,vite,vitest,nodejs,express,postgres,mysql,docker,git&perline=7" />
   </a>
 </p>
